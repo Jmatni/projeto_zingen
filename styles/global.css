@@ -18,10 +18,10 @@
   --text-color-primary: #F4F4F5;
   --text-color-secondary: #A1A1AA;
 
-  --brand-gradient: ;
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
-
+  /* --brand-gradient: linear-gradient(90deg, var(--brand-color-secondary) 0%, var(--brand-color-primary) 100%); */
+  
   --ff-sans: 'Inter', system-ui,sans-serif;
   --fw-base: 400;
   --fw-md: 500;
@@ -36,7 +36,7 @@
   --py-base: 1rem;
   --py-lg: 1.5rem;
   --py-xl: 3rem;
-  
+
   --px-lg: 1.5rem;
 }
 
