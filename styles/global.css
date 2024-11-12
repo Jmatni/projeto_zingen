@@ -27,6 +27,7 @@
   --fw-md: 500;
   --fw-bold: 800;
 
+  --fs-xsm: 0.75rem;
   --fs-sm: 0.875rem;
   --fs-base: 1rem;
   --fs-lg: 1.25rem;
@@ -48,6 +49,8 @@ html {
   color: var(--text-color-primary);
 
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
